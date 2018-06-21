@@ -214,3 +214,6 @@ C:\Users\LUCAS\source\repos\WpfApp1 V11 (Interrogação)\WpfApp1 V11 (Interroga�
 C:\Users\LUCAS\source\repos\WpfApp1 V11 (Interrogação)\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\LUCAS\source\repos\WpfApp1 V11 (Interrogação)\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\LUCAS\source\repos\WpfApp1 V11 (Interrogação)\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Downloads\WpfApp1 V12 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Downloads\WpfApp1 V12 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Downloads\WpfApp1 V12 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.pdb
