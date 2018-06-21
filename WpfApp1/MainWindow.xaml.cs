@@ -525,6 +525,20 @@ namespace WpfApp1
             lblOrc.Content = "Orçamento: " + orcamento.ToString(format: "c") + " LGC";
         }
 
+        private void btnHistoria_Click(object sender, RoutedEventArgs e)
+        {
+            ModoHistória modHist = new ModoHistória();
+            modHist.Show();
+            this.Close();
+        }
+
+        private void btnMultiplayerLAN_Click(object sender, RoutedEventArgs e)
+        {
+            MultiLAN multiLAN = new MultiLAN();
+            multiLAN.Show();
+            this.Close();
+        }
+
         private void textAposta_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
             if (!char.IsDigit(e.Text, e.Text.Length - 1))
