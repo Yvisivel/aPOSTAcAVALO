@@ -1,0 +1,197 @@
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\aluno\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ITAUTEC\Documents\Visual Studio 2015\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\aluno\Desktop\apostacavalo\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ITAUTEC\Desktop\WpfApp1 V3\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.application
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\App.g.cs
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.baml
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.application
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.exe
+H:\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.application
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.application
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\aluno\Documents\apostacavalo\WpfApp1 V4\WpfApp1 V2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\bin\Debug\WpfApp1.application
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\App.g.cs
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.application
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\user\Documents\IFSP\LYJEG-V2 Produções\apostacavalo\WpfApp1 V7\WpfApp1 V6\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ITAUTEC\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V7\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V8 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\App.g.cs
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\aluno\Desktop\aPOSTA cAVALO\Versões\WpfApp1 V9 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V10 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ITAUTEC\Desktop\Nova pasta\aPOSTA cAVALO\Versões\WpfApp1 V11 (Interrogação)\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
